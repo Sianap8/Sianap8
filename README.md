@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Sianap8
 
-<!--
-**Sianap8/Sianap8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me:**  
+I’m a passionate developer and trader exploring crypto, stocks, data analysis, and automation. I love building tools that make markets easier to navigate.
 
-Here are some ideas to get you started:
+💻 **What I’m Working On:**  
+- 📈 Crypto analytics projects 
+- 🤖 Financial bots & trading scripts
+- 🌱 Learning more about AI and data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Languages & Tools:**  
+Python, Git, Jupyter, Pandas, and more.
+
+📫 **How to reach me:**  
+You can message me through [GitHub](https://github.com/Sianap8) 
+
+---
+
+Thanks for visiting my profile!
+
