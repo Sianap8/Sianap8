@@ -4,7 +4,7 @@
 I’m a passionate developer and trader exploring crypto, stocks, data analysis, and automation. I love building tools that make markets easier to navigate.
 
 💻 **What I’m Working On:**  
-- 📈 Crypto analytics projects 
+- 📈 Crypto and Stock analytics projects 
 - 🤖 Financial bots & trading scripts
 - 🌱 Learning more about AI and data science
 
